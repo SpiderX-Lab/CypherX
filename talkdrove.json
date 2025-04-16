@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-      "value": "",
+      "value": "XPLOADER-BOT:~DvZXEAIZ#j9aOe9YAuZwT5cmcZbHKvrTQbybAZU5p9FbHaRWgGFk",
       "required": false
     },
     "BOT_NAME": {
@@ -18,7 +18,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
-      "value": "",
+      "value": "+254799974913",
       "required": true
     },
   "MENU_IMAGE": {
