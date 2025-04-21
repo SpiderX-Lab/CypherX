@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-      "value": "XPLOADER-BOT:~DvZXEAIZ#j9aOe9YAuZwT5cmcZbHKvrTQbybAZU5p9FbHaRWgGFk",
+      "value": "XPLOADER-BOT:~G65xzSyY#r5BajoO-HukJRoLJAOyAWd_cGf8VFL89EHyk3Q6y5lM",
       "required": false
     },
     "BOT_NAME": {
